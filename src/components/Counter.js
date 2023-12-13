@@ -15,7 +15,7 @@ const Counter = () =>{
             <p>Button clicked {clicked} times</p>
             <button onClick={count}>Click me</button>
         </div>
-    )
+    );
 }
 
 export default Counter;
